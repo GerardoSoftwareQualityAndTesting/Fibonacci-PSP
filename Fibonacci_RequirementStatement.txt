@@ -1,0 +1,3 @@
+The program must print the first n Fibonacci numbers  F(n), where F(n)=F(n–1)+F(n–2) and F(1)=F(2)=1.
+
+The program must recieve any integer given n >= 1 as a parameter given by the user.
